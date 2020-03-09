@@ -1,8 +1,14 @@
-# Title
+# OOP Using Vehicles to make Planes and Cars
 
 ### description
 
-### explain what methods are available (seperation of concerns)
+I had to make a vehicle class with the characteristics 'passengers' and 'cargo size',
+and give methods for accelerate and brake.
+I then had to create 2 subclasses, called plane and car with its own methods and characteristics.
+
+### explain what methods are available (separation of concerns)
+
+Methods are functions that belong to a specific data type.
 
 ### Learning Outcomes
 - git
